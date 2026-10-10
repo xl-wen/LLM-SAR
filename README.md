@@ -1,7 +1,7 @@
 # LLM-SAR
 
 This is the PyTorch implementation for LLM-SAR: LLM-Driven Soft-Alignment and Self-Alignment Learning for Recommendation.
->  
+>  A portion of our implementation has been open-sourced. We will release the full code once the paper is accepted.
 
 # Environment
 - Anaconda 3
